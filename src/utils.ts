@@ -1,6 +1,7 @@
 import fetch from 'cross-fetch';
 import { Interface } from '@ethersproject/abi';
-import { Contract } from '@ethersproject/contracts';
+// import { Contract } from '@ethersproject/contracts';
+import {Contract} from 'caver-js'
 import { namehash } from '@ethersproject/hash';
 import { jsonToGraphQLQuery } from 'json-to-graphql-query';
 import Ajv from 'ajv';

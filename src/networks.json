@@ -683,6 +683,22 @@
     "start": 11302663,
     "imageIPFS": "QmewFFN44rkxESFsHG8edaLt1znr62hjvZhGynfXqruzX3"
   },
+  "8217": {
+    "name": "Cypress",
+    "key": "8217",
+    "chainId": 8217,
+    "start": -1,
+    "network": "cypress",
+    "imageIPFS": "TODO"
+  },
+  "1001": {
+    "name": "Baobab",
+    "key": "1001",
+    "chainId": 1001,
+    "network": "baobab",
+    "start": -1,
+    "imageIPFS": "TODO"
+  },
   "1088": {
     "key": "1088",
     "name": "Metis",
@@ -797,7 +813,7 @@
     "explorer": "https://explorer.testnet.nahmii.io",
     "start": 53370,
     "imageIPFS": "QmPXPCBho3kGLt5rhG9JGkKmzdtLvqZmJqGzzijVCuggWY"
-  }, 
+  },
   "7341": {
     "key": "7341",
     "name": "Shyft",
